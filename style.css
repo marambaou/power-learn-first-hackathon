@@ -139,6 +139,7 @@
  .home-details {
     min-height: 100vh;
      overflow: auto;
+     /* margin-top: 50px; */
  }
  .home-details h1 {
      font-size: clamp(3.0rem, 10vw, 5.0rem);
